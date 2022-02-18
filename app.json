@@ -1,0 +1,13 @@
+{
+  "name": "zhaotaoling",
+  "displayName": "召淘令",
+  "Version": "1.0.0",
+  "VersionCode": 1,
+  "AppID": "com.zhaotaoling",
+  "GeolocationAndroid": "4168bb2857564112e7fca66b5fdb8411",
+  "GeolocationIos": "0c60b56cbe043e0b4c3d9cc39fc7d506",
+  "GeolocationWeb": "e03029563dc26a941c344a3b0d37138e",
+  "ServerRoot": "http://ztlcs.yuedian.shop",
+  "WechatId": "",
+  "SocketServer": "ws://ws.szjuyeke.com"
+}
